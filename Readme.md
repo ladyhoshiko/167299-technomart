@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Hoshiko Hoshiko](https://htmlacademy.ru/profile/id167299).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Казанцев](https://htmlacademy.ru/profile/id24186).
 
 ---
 
